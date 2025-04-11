@@ -22,7 +22,7 @@ condições acima. O não cumprimento constitui violação dos termos desta lice
 
 5. Endereço de e-mail do autor: fjbvneto@gmail.com
    
-6. O Autor do Software: Francisco José Badaró Valente Neto
+6. Autor do Software: Francisco José Badaró Valente Neto
    
 O Software é fornecido "no estado em que se encontra", sem garantia de qualquer
 tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de
